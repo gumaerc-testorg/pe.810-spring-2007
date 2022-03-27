@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 7bd1f628-b4f2-07bc-8682-c0f48d56b041
 resourcetype: Document
 title: 'Sailing and the Tech Dinghy: Instruction Manual'
 uid: f7fdc138-336e-2a04-37c5-98c7f789d6d8
