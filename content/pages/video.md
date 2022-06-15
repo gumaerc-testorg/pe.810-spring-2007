@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides videos of course lessons.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Video

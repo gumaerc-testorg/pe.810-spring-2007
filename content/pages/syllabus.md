@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times and the course instructor.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -11,7 +13,7 @@ Course Meeting Times
 
 Lectures: 2 session / week for 6 weeks, 1 hour / session
 
-The purpose of this class is to tell you something about our Tech Dinghy and how to sail it. This OCW site is arranged as a series of skills, explained both with [lecture notes]({{< baseurl >}}/pages/lecture-notes) and [videos]({{< baseurl >}}/pages/video). Please do not think of these skill checks as tests, but instead, as measures of your understanding of our sport. We don’t expect perfection from our beginners, but only that our members be able to safely handle the boats and themselves on the Charles. For those who wish it, there will be much more that can be learned about other boats and other waters, but what can be learned here will provide the basis to build on. For more detail, a text on sailing the Tech Dinghy is provided in the [readings]({{< baseurl >}}/pages/readings) section.
+The purpose of this class is to tell you something about our Tech Dinghy and how to sail it. This OCW site is arranged as a series of skills, explained both with {{% resource_link 9847f5f9-5af1-aa8b-3d1c-1b8644fb604e "lecture notes" %}} and {{% resource_link ddd03f9f-8ab0-1649-5224-27fded01705e "videos" %}}. Please do not think of these skill checks as tests, but instead, as measures of your understanding of our sport. We don’t expect perfection from our beginners, but only that our members be able to safely handle the boats and themselves on the Charles. For those who wish it, there will be much more that can be learned about other boats and other waters, but what can be learned here will provide the basis to build on. For more detail, a text on sailing the Tech Dinghy is provided in the {{% resource_link 7bd1f628-b4f2-07bc-8682-c0f48d56b041 "readings" %}} section.
 
 About the Instructor
 --------------------
