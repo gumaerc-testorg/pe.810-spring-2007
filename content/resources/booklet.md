@@ -2,6 +2,7 @@
 content_type: resource
 description: Instruction manual on sailing the Tech Dinghy.
 file: /courses/pe-810-sailing-spring-2007/f7fdc138336e2a0437c598c7f789d6d8_booklet.pdf
+file_size: 3479640
 file_type: application/pdf
 learning_resource_types:
 - Readings
