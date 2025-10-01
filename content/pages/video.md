@@ -27,7 +27,7 @@ Rigging the Boat
 {{< tdopen >}}
 
 
-([MOV ‑ 3.3MB](http://www.archive.org/download/MITPE.810S07/1riggingboat.mov))
+({{% resource_link "d4e85698-415a-4aa3-a8f0-4756dcdc83bd" "MOV ‑ 3.3MB" %}})
 
 
 {{< tdclose >}}
@@ -40,7 +40,7 @@ Rigging the Sail and Tying a Stuns'l Tack Bend with the Halyard
 {{< tdopen >}}
 
 
-([MOV - 2.3MB](http://www.archive.org/download/MITPE.810S07/2riggingsail.mov))
+({{% resource_link "39cab019-b14e-4b3c-809d-6071b8431ed4" "MOV - 2.3MB" %}})
 
 
 {{< tdclose >}}
@@ -53,7 +53,7 @@ The Stuns'l Tack Bend Reviewed
 {{< tdopen >}}
 
 
-([MOV - 1.1MB](http://www.archive.org/download/MITPE.810S07/3stunsailtackbend.mov))
+({{% resource_link "a3819d7b-9703-462e-8266-4688315f3eb8" "MOV - 1.1MB" %}})
 
 
 {{< tdclose >}}
@@ -66,7 +66,7 @@ Launching the Boat and Securing it with a Bowline Knot
 {{< tdopen >}}
 
 
-([MOV - 1.9MB](http://www.archive.org/download/MITPE.810S07/4launchingtheboat.mov))
+({{% resource_link "f3592746-732a-48d2-b825-263b5b94d7a6" "MOV - 1.9MB" %}})
 
 
 {{< tdclose >}}
@@ -79,7 +79,7 @@ Preparing the Boat to Sail
 {{< tdopen >}}
 
 
-([MOV - 4.1MB](http://www.archive.org/download/MITPE.810S07/5preparingtosail.mov))
+({{% resource_link "bdf4446c-f0e3-404a-b727-20a2a626f233" "MOV - 4.1MB" %}})
 
 
 {{< tdclose >}}
@@ -92,7 +92,7 @@ Leaving the Dock with Two People
 {{< tdopen >}}
 
 
-([MOV](http://www.archive.org/download/MITPE.810S07/6leavingwithtwo.mov))
+({{% resource_link "9bf4baaf-9b35-4870-afd4-a6da5439ac69" "MOV" %}})
 
 
 {{< tdclose >}}
@@ -105,7 +105,7 @@ Leaving the Dock Solo
 {{< tdopen >}}
 
 
-([MOV](http://www.archive.org/download/MITPE.810S07/7leavingsolo.mov))
+({{% resource_link "61e7c580-a381-41bc-b767-0e7c679ef4b6" "MOV" %}})
 
 
 {{< tdclose >}}
@@ -118,7 +118,7 @@ Steering and Trimming with Two People
 {{< tdopen >}}
 
 
-([MOV](http://www.archive.org/download/MITPE.810S07/8steeringtrimming.mov))
+({{% resource_link "de82b7c5-4641-48cd-93d9-be035f3cf2df" "MOV" %}})
 
 
 {{< tdclose >}}
@@ -131,7 +131,7 @@ Tack Turns with Two People - Crew Trimming
 {{< tdopen >}}
 
 
-([MOV](http://www.archive.org/download/MITPE.810S07/9tacktwocrew.mov))
+({{% resource_link "032f3484-44ee-411c-b6f2-eba6cc9f0c34" "MOV" %}})
 
 
 {{< tdclose >}}
@@ -144,7 +144,7 @@ Tacking with Two People - Skipper Trimming
 {{< tdopen >}}
 
 
-([MOV](http://www.archive.org/download/MITPE.810S07/10tacktwoskipper.mov))
+({{% resource_link "ce523ac3-5efc-4b9f-b0df-3e3aec96f43f" "MOV" %}})
 
 
 {{< tdclose >}}
@@ -157,7 +157,7 @@ Tack Turns Solo with Tiller Extension
 {{< tdopen >}}
 
 
-([MOV](http://www.archive.org/download/MITPE.810S07/11tacking.mov))
+({{% resource_link "0258e144-d098-4cff-a9d5-19bcfdeb8cad" "MOV" %}})
 
 
 {{< tdclose >}}
@@ -170,7 +170,7 @@ Jibe Turns with Two People
 {{< tdopen >}}
 
 
-([MOV](http://www.archive.org/download/MITPE.810S07/13jibingtwopeople.mov))
+({{% resource_link "366d4718-b8c6-47b2-8e9e-49aec7cfe6fb" "MOV" %}})
 
 
 {{< tdclose >}}
@@ -183,7 +183,7 @@ Jibe Turns Solo
 {{< tdopen >}}
 
 
-([MOV](http://www.archive.org/download/MITPE.810S07/14Ajibingsolo.mov))
+({{% resource_link "97348797-a850-43c8-b5fd-18be69e91ae8" "MOV" %}})
 
 
 {{< tdclose >}}
@@ -196,7 +196,7 @@ Jibe Turns Solo with Tiller Extension
 {{< tdopen >}}
 
 
-([MOV - 1.2MB](http://www.archive.org/download/MITPE.810S07/14Bjibingtackingtiller.mov))
+({{% resource_link "193be1bb-8cf0-45a0-862a-317a84adbf4b" "MOV - 1.2MB" %}})
 
 
 {{< tdclose >}}
@@ -209,7 +209,7 @@ Returning and Docking with Two People
 {{< tdopen >}}
 
 
-([MOV](http://www.archive.org/download/MITPE.810S07/16dockingtwopeople.mov))
+({{% resource_link "103816cf-9e9b-4012-8198-2eac03cfddb2" "MOV" %}})
 
 
 {{< tdclose >}}
@@ -222,7 +222,7 @@ Returning and Docking Solo
 {{< tdopen >}}
 
 
-([MOV](http://www.archive.org/download/MITPE.810S07/17dockingsolo.mov))
+({{% resource_link "b62e56e6-60b4-4542-ac3d-196533729942" "MOV" %}})
 
 
 {{< tdclose >}}
@@ -235,7 +235,7 @@ Pulling a Dinghy onto the Dock
 {{< tdopen >}}
 
 
-([MOV](http://www.archive.org/download/MITPE.810S07/19pullingontodock.mov))
+({{% resource_link "2ef23231-0ed7-416f-9e04-e45cdc6720ce" "MOV" %}})
 
 
 {{< tdclose >}}
@@ -248,7 +248,7 @@ Folding the Sail
 {{< tdopen >}}
 
 
-([MOV - 2MB](http://www.archive.org/download/MITPE.810S07/20foldingthesail.mov))
+({{% resource_link "08aafffb-5447-483a-bbc8-9342093eb4b3" "MOV - 2MB" %}})
 
 
 {{< tdclose >}}
@@ -261,7 +261,7 @@ Rudder and Tiller Clean Up
 {{< tdopen >}}
 
 
-([MOV](http://www.archive.org/download/MITPE.810S07/21ruddertillerclean.mov))
+({{% resource_link "58fca5d4-a24f-475f-b4ad-8d5b8fee1e7a" "MOV" %}})
 
 
 {{< tdclose >}}
